@@ -23,8 +23,5 @@ To use the AdBlocker extension, simply browse the web as usual. The extension wi
 ## Documentation
 The full documentation of the development process is available in the docs folder. This includes design decisions, code structures, and testing procedures. Additionally, the code is well-commented and easy to understand, making it easy to modify and customize for your own use.
 
-## Contributions
-Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request. Before submitting a pull request, please make sure to read the CONTRIBUTING.md file and adhere to the code of conduct.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
